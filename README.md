@@ -1,4 +1,4 @@
-# Top 9 Shows
+# TVTaste
 
 A React + Vite app for finding TV shows to add to a personal Top 9.
 
