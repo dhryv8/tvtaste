@@ -90,7 +90,7 @@ export default function App() {
     <main className="app-shell">
       <header className="topbar">
         <a className="wordmark" href="/" aria-label="Top 9 shows home">
-          Top 9 shows
+          ✪ TVTaste 
         </a>
       </header>
 
